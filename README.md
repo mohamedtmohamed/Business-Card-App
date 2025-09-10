@@ -8,7 +8,7 @@ A simple Flutter application that displays a digital business card. This app dem
 - Contact information (phone, email, etc.)
 - Clean and modern UI
 
-## Screenshots
+## Screenshot
 
 ![App Screenshot](screenshot.png)
 
